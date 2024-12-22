@@ -45,7 +45,7 @@ img {
 
 /* Hero Section */
 header.hero {
-  background: url(../assets/dead-tree-1-1409136.jpg) no-repeat center center fixed;
+  background-color: #7447ae;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
